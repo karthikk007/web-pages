@@ -11,3 +11,12 @@ flask run
 
 
 source runw.sh
+
+
+Web server application
+Python
+Flask
+SQLite
+
+Todo app
+
